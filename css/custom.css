@@ -1182,7 +1182,7 @@ header.main-header .header-sticky.active{
 	font-size: 22px;
 	font-weight: 700;
 	color: var(--primary-color);
-	text-transform: capitalize;
+	text-transform: small;
 	margin-bottom: 20px;
 }
 
